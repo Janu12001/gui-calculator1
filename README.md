@@ -1,6 +1,6 @@
 # gui-calculator1
 
-## TECH-STACk
+## TECH-STACK
 HTML
 CSS
 JAVASCRIPT
