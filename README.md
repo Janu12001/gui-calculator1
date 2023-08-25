@@ -5,4 +5,4 @@ HTML
 CSS
 JAVASCRIPT
 
-This is  simple GUI calculator.
+This is  Simple GUI calculator.
